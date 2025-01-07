@@ -18,11 +18,9 @@
 
 Once you clone the repository, you can run:
 
+```sh
+bun install
 ```
-./bin/setup
-```
-
-which will install all the dependencies and set up a `.env` file locally for git-ignored secrets.
 
 ## 🚀 Scripts
 
